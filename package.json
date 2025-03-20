@@ -1,5 +1,5 @@
 {
-  "name": "wt-js-search-images",
+  "name": "wt-js-search-images_1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,7 @@
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "build": "vite build --base=/wt-js-search-images/ --emptyOutDir",
+    "build": "vite build --base=/wt-js-search-images_1/ --emptyOutDir",
     "preview": "vite preview"
   },
   "devDependencies": {
